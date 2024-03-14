@@ -1,4 +1,4 @@
-# LP1 PROVIS C1
+# TP1 PROVIS C1
 
 1. Ada dua kelas yaitu Human dan Mahasiswa
 2. Kelas Mahasiswa merupakan kelas turunan dari kelas Human
